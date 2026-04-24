@@ -1,6 +1,6 @@
 # Hi there, I'm Avanish Tiwari 👋
 
-## Full Stack Developer | MERN Stack Enthusiast
+<img src="https://github.com/avanishtatat/avanish-developer-portfolio/public/at-favicon.svg" height="50" width="50" alt="My Portfolio Favicon" /> ## Full Stack Developer | MERN Stack Enthusiast
 
 I am a Full Stack Developer with expertise in building modern, scalable web applications. Currently pursuing Full Stack Development with a specialization in 4.0 Technologies through NxtWave's CCBP 4.0 Intensive program. Passionate about creating efficient, user-centric web solutions and continuously expanding my technical skill set.
 
