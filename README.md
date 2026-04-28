@@ -1,65 +1,175 @@
-# Hi there, I'm Avanish Tiwari 👋
+# Avanish Tiwari 👨‍💻
 
-## Full Stack Developer | MERN Stack Enthusiast
+**Full Stack Developer** | **MERN Stack Specialist** | **JavaScript/TypeScript Enthusiast**
 
-I am a Full Stack Developer with expertise in building modern, scalable web applications. Currently pursuing Full Stack Development with a specialization in 4.0 Technologies through NxtWave's CCBP 4.0 Intensive program. Passionate about creating efficient, user-centric web solutions and continuously expanding my technical skill set.
+Dedicated full stack developer with hands-on experience building scalable, production-ready web applications. Proficient in React.js, Node.js, Express, MongoDB, and PostgreSQL. Passionate about writing clean, maintainable code and solving complex problems with elegant solutions. Currently focused on developing full-stack applications and strengthening data structures & algorithms fundamentals.
 
 ---
 
-## 🛠️ Technical Skills
+## 🎯 Technical Stack
 
 ### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Database & Tools
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-**Full Stack Developer**  
-*June 2025 - Present*
-
-- Developing end-to-end web applications using the MERN stack
-- Building responsive and interactive user interfaces
-- Implementing RESTful APIs and database management solutions
-- Currently focusing on interview preparation and advancing technical expertise
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Featured Projects
 
-### 🎥 NxtWatch
-A feature-rich YouTube clone application demonstrating advanced React.js capabilities.
-- User authentication and authorization
-- Video categorization (Trending, Gaming, Saved Videos)
-- Search functionality with dynamic filtering
-- Light/Dark theme toggle
-- Responsive design for seamless cross-device experience
+### 💰 **Expense Tracker** - Full-Stack Financial Management Application ⭐ Most Valuable
 
-**Tech Stack:** React.js, JavaScript, CSS
+A production-grade full-stack personal finance management application with real-time analytics, secure authentication, and comprehensive financial reporting. This project demonstrates complete MERN stack proficiency with serverless deployment.
+
+**Key Features:**
+- Complete user authentication with JWT and password hashing (bcryptjs)
+- Real-time income & expense tracking with categorization
+- Advanced data visualization with interactive charts (Recharts)
+- Dashboard aggregation with balance calculations
+- Excel export functionality for financial reports
+- Cloudinary image integration for profile management
+- Responsive UI built with Tailwind CSS
+- Protected API routes with JWT middleware
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Recharts, JWT, Cloudinary, XLSX
+
+**Deployment:** 
+- 🌐 **Frontend:** [Vercel](https://avanish-expense-tracker.vercel.app)
+- 🔧 **Backend:** [Vercel Serverless](https://expense-tracker-seven-omega-12.vercel.app)
+
+**Repository:** [github.com/avanishtatat/EXPENSE-TRACKER](https://github.com/avanishtatat/EXPENSE-TRACKER)
 
 ---
 
-### 🛒 NxtTrendz
-A comprehensive e-commerce platform inspired by Amazon and Flipkart.
-- Secure user authentication system
-- Product catalog with advanced search and filtering
-- Sorting functionality for enhanced user experience
-- Shopping cart and wishlist features
-- Mobile-responsive interface
+### 🎨 **Pear Media AI Studio** - AI-Powered Media Generation Platform
 
-**Tech Stack:** React.js, JavaScript, CSS
+A sophisticated full-stack application powered by Google Gemini and Hugging Face FLUX APIs for intelligent media content generation. Features advanced AI orchestration with secure backend proxy architecture.
+
+**Key Features:**
+- Multi-AI integration (Google Gemini for prompt enhancement & image analysis)
+- Hugging Face FLUX for advanced image generation and variations
+- Creative Studio workflow (Text → Enhanced Prompt → Image)
+- Stream Lab workflow (Image → Analysis → Creative Variation)
+- Real-time UX states with loading and error handling
+- Downloadable AI-generated media outputs
+- Responsive design with Lucide React icons
+- Secure backend proxy for API key protection
+
+**Technologies:** React.js, Node.js, Express.js, Tailwind CSS, Google Gemini API, Hugging Face FLUX, Vite
+
+**Deployment:**
+- 🌐 **Frontend:** [Vercel](https://pear-media-ai.vercel.app)
+- 🔧 **Backend:** [Render](https://pear-media-ai-backend.onrender.com)
+
+**Repository:** [github.com/avanishtatat/pear-media-ai](https://github.com/avanishtatat/pear-media-ai)
+
+---
+
+### 💻 **CodeBuddy** - AI-Powered Code Assistant Platform 🚀 Coming Soon
+
+An innovative full-stack application leveraging Anthropic Claude and Groq AI APIs to provide intelligent coding assistance, code reviews, and debugging support. Demonstrates advanced AI integration for developer productivity.
+
+**Key Features:**
+- Integration with Anthropic Claude and Groq AI APIs
+- Real-time code analysis and intelligent suggestions
+- Syntax-highlighted code display with React Syntax Highlighter
+- Markdown-based documentation rendering
+- Secure user authentication with JWT and Bcrypt
+- Interactive code editor with real-time updates
+- Responsive design with Tailwind CSS
+- Full-stack architecture with MongoDB
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Anthropic SDK, Groq SDK, Vite
+
+**Status:** ⚙️ In Active Development - Launching Soon
+
+**Repository:** [github.com/avanishtatat/codebuddy](https://github.com/avanishtatat/codebuddy) *(Production Build Ready)*
+
+---
+
+### 🎥 **NxtWatch** - YouTube Clone Platform
+
+A fully functional video streaming platform showcasing advanced React capabilities with authentication, dynamic categorization, and theme management.
+
+**Key Features:**
+- Secure JWT-based authentication and authorization
+- Dynamic video categorization (Trending, Gaming, Watch Later)
+- Real-time search with advanced filtering
+- Dark/Light theme toggle with persistent preferences
+- Fully responsive design across all devices
+- Context API for state management
+- Performance optimized with lazy loading
+
+**Technologies:** React.js, JavaScript, CSS3, Context API, React Router
+
+**Deployment:** 🌐 Netlify
+
+**Repository:** [github.com/avanishtatat/NxtWatch](https://github.com/avanishtatat/NxtWatch)
+
+---
+
+### 🛒 **NxtTrendz** - E-Commerce Platform
+
+A comprehensive e-commerce application featuring advanced product management, shopping cart, and wishlist functionality with intuitive filtering and sorting.
+
+**Key Features:**
+- User authentication and session management
+- Advanced product search, filtering, and sorting algorithms
+- Dynamic shopping cart and wishlist management
+- Order tracking and user profile dashboard
+- Mobile-optimized responsive interface
+- Secure user experience with JWT tokens
+- Efficient state management
+
+**Technologies:** React.js, JavaScript, CSS3, REST APIs, React Router
+
+**Deployment:** 🌐 Netlify
+
+**Repository:** [github.com/avanishtatat/NxtTrendz](https://github.com/avanishtatat/NxtTrendz)
+
+---
+
+### 📋 **Job Tracker** - Full Stack Application (PERN)
+
+A modern job tracking application enabling users to manage job applications, track statuses, and organize their job search workflow with PostgreSQL backend.
+
+**Key Features:**
+- Complete PERN stack (PostgreSQL, Express, React, Node.js)
+- Secure user authentication with JWT and Bcrypt
+- Job CRUD operations with real-time updates
+- PostgreSQL database with optimized queries
+- RESTful API architecture with best practices
+- Protected routes with JWT middleware
+- Responsive UI design
+
+**Technologies:** React.js, Node.js, Express.js, PostgreSQL, JWT, Bcrypt
+
+**Deployment:**
+- 🌐 **Frontend:** [Railway](https://job-tracker-client-production.up.railway.app) or Vercel
+- 🔧 **Backend:** [Railway](https://job-tracker-server-production.up.railway.app) or Render
+
+**Repository:** 
+- [Frontend - job-tracker-client](https://github.com/avanishtatat/job-tracker-client)
+- [Backend - job-tracker-server](https://github.com/avanishtatat/job-tracker-server)
 
 ---
 
@@ -71,46 +181,28 @@ A comprehensive e-commerce platform inspired by Amazon and Flipkart.
 
 ---
 
-## 💡 What Drives Me
+## 🎯 Current Focus & Learning
 
-Building innovative web applications that solve real-world problems is my passion. I thrive on transforming ideas into functional, aesthetically pleasing digital experiences. Every line of code I write is an opportunity to learn, improve, and contribute to the ever-evolving landscape of web development.
+- **Full Stack Development:** Mastering MERN stack and PERN stack architecture
+- **AI Integration:** Building AI-powered applications with Claude, Groq, Gemini, and OpenAI APIs
+- **Data Structures & Algorithms:** Building strong problem-solving foundations for technical interviews
+- **Advanced React Patterns:** Hooks, Context API, Performance Optimization, Advanced State Management
+- **Backend Architecture:** RESTful API design, database optimization, security best practices
+- **Deployment & DevOps:** Mastering serverless deployments on Vercel, Netlify, Render, and Railway
+- **Interview Preparation:** LeetCode, technical assessments, system design
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
+
+Let's collaborate on innovative projects and build something exceptional together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanishtiwari18)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avanishtatat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avanisht.at.at@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avanisht.at.at@gmail.com)
 
 ---
 
-## 🎯 Current Focus
+**💡 Philosophy:** Building elegant solutions to real-world problems, one line of code at a time.
 
-- Strengthening problem-solving skills through data structures and algorithms
-- Preparing for technical interviews
-- Exploring advanced React patterns and state management
-- Building portfolio projects to showcase full-stack capabilities
-
----
-
-**⚡ Fun Fact:** I believe the best way to predict the future is to create it, one commit at a time.
-
----
-
-*Looking for opportunities to contribute to innovative projects and collaborate with talented developers. Let's build something amazing together!*
-
-<!--
-**avanishtatat/avanishtatat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Open to Full Stack Development, Frontend Development, and Backend Engineering opportunities.*
