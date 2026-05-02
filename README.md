@@ -36,6 +36,31 @@ Dedicated full stack developer with hands-on experience building scalable, produ
 
 ## 💼 Featured Projects
 
+### 💻 **CodeBuddy** - AI-Powered Coding Assistant ✅ Live
+
+A full-stack AI coding assistant built for beginner and intermediate developers. Features secure authentication, conversation memory, persistent chat history, and syntax-highlighted markdown rendering.
+
+**Key Features:**
+- Secure user authentication with JWT and Bcrypt
+- AI-powered responses using Groq API (llama-3.3-70b-versatile)
+- Conversation memory — last 10 messages sent as context
+- Persistent chat history saved to MongoDB with pagination
+- Daily message limit of 20 messages per user
+- Question-answer pairs with expandable answers
+- Markdown rendering with syntax highlighted code blocks
+- Responsive design for mobile and desktop
+- First-time user welcome card with suggestion chips
+
+**Technologies:** React.js, Vite, Node.js, Express.js, MongoDB, Tailwind CSS, Groq SDK, JWT, Bcrypt
+
+**Deployment:**
+- 🌐 **Frontend:** [Vercel](https://avanish-codebuddy.vercel.app)
+- 🔧 **Backend:** [Render](https://avanish-codebuddy-server.onrender.com)
+
+**Repository:** [github.com/avanishtatat/codebuddy](https://github.com/avanishtatat/codebuddy)
+
+---
+
 ### 💰 **Expense Tracker** - Full-Stack Financial Management Application ⭐ Most Valuable
 
 A production-grade full-stack personal finance management application with real-time analytics, secure authentication, and comprehensive financial reporting. This project demonstrates complete MERN stack proficiency with serverless deployment.
@@ -52,9 +77,9 @@ A production-grade full-stack personal finance management application with real-
 
 **Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Recharts, JWT, Cloudinary, XLSX
 
-**Deployment:** 
+**Deployment:**
 - 🌐 **Frontend:** [Vercel](https://avanish-expense-tracker.vercel.app)
-- 🔧 **Backend:** [Vercel Serverless](https://expense-tracker-seven-omega-12.vercel.app)
+- 🔧 **Backend:** [Vercel](https://expense-tracker-seven-omega-12.vercel.app)
 
 **Repository:** [github.com/avanishtatat/EXPENSE-TRACKER](https://github.com/avanishtatat/EXPENSE-TRACKER)
 
@@ -77,32 +102,35 @@ A sophisticated full-stack application powered by Google Gemini and Hugging Face
 **Technologies:** React.js, Node.js, Express.js, Tailwind CSS, Google Gemini API, Hugging Face FLUX, Vite
 
 **Deployment:**
-- 🌐 **Frontend:** [Vercel](https://pear-media-ai.vercel.app)
-- 🔧 **Backend:** [Render](https://pear-media-ai-backend.onrender.com)
+- 🌐 **Frontend:** [Vercel](https://avanishpearmediaaistudioui.vercel.app)
+- 🔧 **Backend:** [Vercel](https://avanishpearmediaaistudio.vercel.app)
 
 **Repository:** [github.com/avanishtatat/pear-media-ai](https://github.com/avanishtatat/pear-media-ai)
 
 ---
 
-### 💻 **CodeBuddy** - AI-Powered Code Assistant Platform 🚀 Coming Soon
+### 📋 **Job Tracker** - Full Stack Application (PERN)
 
-An innovative full-stack application leveraging Anthropic Claude and Groq AI APIs to provide intelligent coding assistance, code reviews, and debugging support. Demonstrates advanced AI integration for developer productivity.
+A modern job tracking application enabling users to manage job applications, track statuses, and organize their job search workflow with PostgreSQL backend.
 
 **Key Features:**
-- Integration with Anthropic Claude and Groq AI APIs
-- Real-time code analysis and intelligent suggestions
-- Syntax-highlighted code display with React Syntax Highlighter
-- Markdown-based documentation rendering
+- Complete PERN stack (PostgreSQL, Express, React, Node.js)
 - Secure user authentication with JWT and Bcrypt
-- Interactive code editor with real-time updates
-- Responsive design with Tailwind CSS
-- Full-stack architecture with MongoDB
+- Job CRUD operations with real-time updates
+- PostgreSQL database with optimized queries
+- RESTful API architecture with best practices
+- Protected routes with JWT middleware
+- Responsive UI design
 
-**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Anthropic SDK, Groq SDK, Vite
+**Technologies:** React.js, Node.js, Express.js, PostgreSQL, JWT, Bcrypt
 
-**Status:** ⚙️ In Active Development - Launching Soon
+**Deployment:**
+- 🌐 **Frontend:** [Netlify](https://jobtrackerpern.netlify.app)
+- 🔧 **Backend:** [Render](https://job-tracker-server-xrmq.onrender.com)
 
-**Repository:** [github.com/avanishtatat/codebuddy](https://github.com/avanishtatat/codebuddy) *(Production Build Ready)*
+**Repository:**
+- [Frontend - job-tracker-client](https://github.com/avanishtatat/job-tracker-client)
+- [Backend - job-tracker-server](https://github.com/avanishtatat/job-tracker-server)
 
 ---
 
@@ -121,7 +149,7 @@ A fully functional video streaming platform showcasing advanced React capabiliti
 
 **Technologies:** React.js, JavaScript, CSS3, Context API, React Router
 
-**Deployment:** 🌐 Netlify
+**Deployment:** 🌐 [Live Demo](https://avanishnxtwatch.ccbp.tech)
 
 **Repository:** [github.com/avanishtatat/NxtWatch](https://github.com/avanishtatat/NxtWatch)
 
@@ -142,42 +170,17 @@ A comprehensive e-commerce application featuring advanced product management, sh
 
 **Technologies:** React.js, JavaScript, CSS3, REST APIs, React Router
 
-**Deployment:** 🌐 Netlify
+**Deployment:** 🌐 [Live Demo](https://avanishnxttrend.ccbp.tech)
 
 **Repository:** [github.com/avanishtatat/NxtTrendz](https://github.com/avanishtatat/NxtTrendz)
 
 ---
 
-### 📋 **Job Tracker** - Full Stack Application (PERN)
-
-A modern job tracking application enabling users to manage job applications, track statuses, and organize their job search workflow with PostgreSQL backend.
-
-**Key Features:**
-- Complete PERN stack (PostgreSQL, Express, React, Node.js)
-- Secure user authentication with JWT and Bcrypt
-- Job CRUD operations with real-time updates
-- PostgreSQL database with optimized queries
-- RESTful API architecture with best practices
-- Protected routes with JWT middleware
-- Responsive UI design
-
-**Technologies:** React.js, Node.js, Express.js, PostgreSQL, JWT, Bcrypt
-
-**Deployment:**
-- 🌐 **Frontend:** [Railway](https://job-tracker-client-production.up.railway.app) or Vercel
-- 🔧 **Backend:** [Railway](https://job-tracker-server-production.up.railway.app) or Render
-
-**Repository:** 
-- [Frontend - job-tracker-client](https://github.com/avanishtatat/job-tracker-client)
-- [Backend - job-tracker-server](https://github.com/avanishtatat/job-tracker-server)
-
----
-
 ## 📊 GitHub Statistics
 
-![Avanish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avanishtatat&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avanishtatat&layout=compact&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=avanishtatat&style=for-the-badge&color=3b82f6)
+![Followers](https://img.shields.io/github/followers/avanishtatat?style=for-the-badge&color=3b82f6)
+![Stars](https://img.shields.io/github/stars/avanishtatat?style=for-the-badge&color=3b82f6)
 
 ---
 
